@@ -1,0 +1,60 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+    background-image: url("/assets/img/sfondo.png");
+    margin: 0;
+    font-family: sans-serif;
+    width: 100vw;
+}
+
+/* HEADER */
+
+header, footer{
+    background-image: linear-gradient(26deg, #093970, #093970e4);
+    margin:auto;
+    color: white;
+    width: 80%
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+
+.alignt {
+    text-align: center;
+}
+
+.formattext {
+
+    text-transform: uppercase;
+
+}
+
+
+.principalformat {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-top: 3px solid rgba(128, 128, 128, 0.374);
+    border-right: 3px solid rgba(128, 128, 128, 0.374); 
+    border-left: 3px solid rgba(128, 128, 128, 0.374);
+}
+
+.specialborder {
+    border-top: 0px solid white;
+  3px solid rgba(128, 128, 128, 0.374);  border-bottom: 3px solid rgba(128, 128, 128, 0.374);
+}
+
+
+
+
+
+aside h2 {
+    margin-top: 0px;
+}
+
+
+
+
+
